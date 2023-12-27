@@ -1,2 +1,2 @@
-#Akilli Tarim
+# Akilli Tarim
 Projem akıllı tarım projesidir. IoT tabanlı bu proje ile bitkilerin daha verimli bir şekilde yetiştirilmesi ve gereksiz sulamaların önüne geçerek su tüketimini mininum düzeye indirgemek amaçlanmıştır. Projemde toprağın nem durumunu anlık olarak hem Blynk hem de Thingspeak üzerinden kontrol edebiliyoruz. Ayrıca bitki çeşidine göre toprağın nem durumu belirlediğimiz toprak kuruluk değerinin üzerine çıktığı zaman Blynk hem uygulama içerisinde bildirim veriyor hem de Blynk platformu uygulamaya giriş yaptığımız e-posta adresine toprağın kuru olduğunu ve sulama yapılması gerektiğini bildiren bir uyarı maili ile bilgilendirme yapıyor.

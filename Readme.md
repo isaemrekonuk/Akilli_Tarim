@@ -1,0 +1,1 @@
+Proje toprak nem algılama sensöründen alınan verileri Blynk ve ThingSpeak platformlarına gönderilmesi amaçlanmıştır.
